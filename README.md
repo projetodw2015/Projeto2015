@@ -26,4 +26,4 @@
 
 ##III.Arquitetura
 
-	O cenário inicialmente proposto é composto por duas máquinas virtuais em mesma rede, na arquitetura cliente servidor como consta imagem abaixo.
+	O cenário inicialmente proposto é composto por duas máquinas virtuais em mesma rede, na arquitetura cliente servidor como consta imagem abaixo
